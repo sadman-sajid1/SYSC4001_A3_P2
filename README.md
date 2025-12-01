@@ -10,7 +10,7 @@ exams/ containing 20 exam.txt files for 20 students
 
 //COMPILING (bash)
 gcc part2a.c -o part2a
-gcc part2b.c -o part2b -lpthread
+gcc part2b.c -o part2b
 
 //USE
 ./part2a "number of TAs wanted"
