@@ -89,7 +89,7 @@ static void save_rubric(const char *path, shared_t *sh)
     fclose(f);
 }
 
-static int all_marked(shared_t *sh) // making sure all exams are marked
+static int all_marked(shared_t *sh) 
 {
     for (int i = 0; i < EXERCISES; i++)
     {
@@ -237,3 +237,4 @@ int main(int argc, char **argv)
 
     return 0;
 }
+
