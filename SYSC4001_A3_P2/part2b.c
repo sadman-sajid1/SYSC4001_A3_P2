@@ -1,3 +1,5 @@
+//Sadman Sajid 101303949
+//Stefan Martincevic 101295641
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -218,3 +220,4 @@ int main(int argc, char **argv)
     printf("Parent: all TAs done\n");
     return 0;
 }
+
